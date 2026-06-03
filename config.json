@@ -2,8 +2,13 @@
   "outdir": "./output",
   "clientID": "3f6abfba-0318-403f-bc4e-09f33af5faa3",
   "mapping": {
-    "us": "45.50.96.71"
-
+      "us": "45.50.96.71",
+    "uk": "51.89.255.67",
+    "ca": "23.227.38.65",
+    "de": "91.107.201.140",
+    "fr": "51.210.0.1",
+    "es": "82.98.134.10",
+    "it": "79.137.44.85"
   },
   "all": false,
   "group": "genre",
@@ -14,7 +19,7 @@
   "randomClientid": false,
   "refresh": 0,
   "xTvgUrl": false,
-  "ondemand": true,
+  "ondemand": false,
   "vlcopts": false,
   "pipeopts": false
 }
