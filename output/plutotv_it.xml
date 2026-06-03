@@ -2251,6 +2251,11 @@
         <desc>Oscar a Mejor Actriz (Fontaine) 1941. Un atractivo vividor coincide en el tren con una joven ingenua que acabará teniendo que pagarle el billete. Más adelante, vuelven a encontrarse en una fiesta y, tras un breve romance, ella decide casarse con él.</desc>
         <icon src="https://images.pluto.tv/series/673f2c032678a500143eea13/tile_1769191922158.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
+    <programme channel="676e7b4a4bd636000819c6a7" start="20260603224207 +0000" stop="20260604014007 +0000">
+        <title>Toni Erdmann</title>
+        <desc>Ines trabaja en una importante empresa alemana con sede en Bucarest. Tiene una vida perfectamente ordenada hasta que Winfried, su padre, llega de improviso y le hace una pregunta inesperada: "¿Eres feliz?"</desc>
+        <icon src="https://images.pluto.tv/series/60d0438d28f1d30013ed41e6/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
     <programme channel="686cd84603ad75cfd132d672" start="20260603181757 +0000" stop="20260603190549 +0000">
         <title>America's Next Top Model</title>
         <desc>America's Next Top Model vuelve con otra emocionante edición de chicos y chicas que compiten por llevarse el codiciado título. Los concursantes potenciales llegan a Hollywood, modelando trajes de baño.</desc>
@@ -5313,7 +5318,7 @@
     </programme>
     <programme channel="67164414e40c4a00087f450d" start="20260603221600 +0000" stop="20260603225600 +0000">
         <title>Break of Throw: Team America</title>
-        <desc>Paul Nicholson goes red, white &amp; bullseye with Team USA, analysing the throws of Alex Spellman &amp; Jason Brandon.</desc>
+        <desc>Paul Nicholson goes red, white &amp; bullseye with Team USA, analyzing the throws of Alex Spellman &amp; Jason Brandon.</desc>
         <icon src="https://images.pluto.tv/series/6924906c270d239ba3279b65/tile_1769188436386.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
     <programme channel="67517fae5534bb0008187997" start="20260603183000 +0000" stop="20260603190000 +0000">
@@ -11542,6 +11547,11 @@ Alejarse de los abusones / Rutina de meditación / Experimento con cupcakes / Co
         <title>The unthinkable: The unthinkable</title>
         <desc>Suecia se enfrenta a un misterioso y desconocido ataque. No hay tanques ni ejércitos enemigos acechando, sino sistemas informáticos que se caen repentinamente e instalaciones o infraestructuras que explotan de repente.</desc>
         <icon src="https://images.pluto.tv/series/6299d395ba369d001340ea69/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="645a309c5a0cd5000873f609" start="20260604071648 +0000" stop="20260604090048 +0000">
+        <title>La era del mañana</title>
+        <desc>Cuando el sol golpea un altar, escondido dentro de la antigua Pirámide del Sol en México, se crea un faro que desencadena una guerra relámpago alienígena. En cuestión de horas, sus platillos destruyen toda la infraestructura militar de la tierra.</desc>
+        <icon src="https://images.pluto.tv/series/608fa39a6a72b000130cca8e/tile_1769193003454.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
     <programme channel="64a3f200f238ce0008d47247" start="20260604021129 +0000" stop="20260604030143 +0000">
         <title>Mapas de Asesinatos</title>
