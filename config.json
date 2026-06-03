@@ -8,8 +8,7 @@
     "de": "91.107.201.140",
     "fr": "51.210.0.1",
     "es": "82.98.134.10",
-    "it": "79.137.44.85",
-    "se": "104.132.27.255"
+    "it": "79.137.44.85"
   },
   "all": false,
   "group": "genre",
@@ -20,7 +19,7 @@
   "randomClientid": false,
   "refresh": 0,
   "xTvgUrl": false,
-  "ondemand": false,
+  "ondemand": true,
   "vlcopts": false,
   "pipeopts": false
 }
