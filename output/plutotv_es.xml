@@ -1616,6 +1616,11 @@
         <desc>Un médico británico lucha contra una epidemia de cólera en un pequeño pueblo chino, mientras está atrapado en un matrimonio sin amor con una mujer infiel.</desc>
         <icon src="https://images.pluto.tv/series/6735c483b7ea5e0013a68033/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
+    <programme channel="5f1ac9a2d3611d0007a844bb" start="20260604134628 +0000" stop="20260604152934 +0000">
+        <title>Con la magia en los zapatos</title>
+        <desc>Un zapatero, aburrido de su vida cotidiana, tropieza con una reliquia mágica que le permite convertirse en otras personas y ver el mundo de otra manera.</desc>
+        <icon src="https://images.pluto.tv/series/6729e43c2678a5001418eea6/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
     <programme channel="5f6a38eaa5b68b0007a00e7a" start="20260604083138 +0000" stop="20260604094638 +0000">
         <title>Teo, cazador intergaláctico</title>
         <desc>Teo es un extraterrestre del planeta Sauracia que vive entre juegos y travesuras con su abuelo Olduk. En un viaje a la Tierra conoce a dos chicos, y con ellos como guías comprobará que la amistad es muy importante para la existencia.</desc>
@@ -6496,6 +6501,11 @@ Alejarse de los abusones / Rutina de meditación / Experimento con cupcakes / Co
         <title>Hermosas criaturas</title>
         <desc>Ethan y Lena se conocen y se enamoran, y juntos descubren los oscuros secretos de sus respectivas familias, su historia y su ciudad en este thriller romántico sobrenatural.</desc>
         <icon src="https://images.pluto.tv/series/6761a170381eea0013640bb3/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="5f1ac9a2d3611d0007a844bb" start="20260604173727 +0000" stop="20260604191907 +0000">
+        <title>Red Dog, una historia de lealtad</title>
+        <desc>Basada en una historia real, la película cuenta cómo un perro recorre Australia creando vínculos con los habitantes de un pueblo minero, convirtiéndose en un símbolo de amistad y lealtad.</desc>
+        <icon src="https://images.pluto.tv/series/69fb6c8ca3d970fa62b16b4f/tile_1778085004865.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
     <programme channel="5f6a38eaa5b68b0007a00e7a" start="20260604125538 +0000" stop="20260604143338 +0000">
         <title>Jurassic Games</title>
@@ -12327,6 +12337,11 @@ Alejarse de los abusones / Rutina de meditación / Experimento con cupcakes / Co
         <desc>El cineasta Roman Polanski aumenta el suspense en un thriller sobre un escritor (Ewan McGregor) que redacta las memorias de un ex primer ministro (Pierce Brosnan).</desc>
         <icon src="https://images.pluto.tv/series/6735d3fdb7ea5e0013a6a2c0/tile_1777577402668.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
+    <programme channel="60cc807324d60a0007708dc8" start="20260604214310 +0000" stop="20260604231310 +0000">
+        <title>El asedio</title>
+        <desc>La película relata la historia de unos rehenes que se ven envueltos en una situación en la que participan un ex convicto, los federales, la policía local y la mafia.</desc>
+        <icon src="https://images.pluto.tv/series/616fc57cf3593c001aa52b04/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
     <programme channel="612ce5214bb5790007ad3016" start="20260604164417 +0000" stop="20260604173917 +0000">
         <title>Historias de Ultratumba: Espiritu diabólico</title>
         <desc>¿Qué tan diferente podría ser nuestra realidad si no pudiéramos sentir y comunicarnos de las formas más convencionales? Para Marie, este es un tema que forma parte de su día a día. Su hija Julie padece una condición mental que la debilita.</desc>
@@ -17407,6 +17422,11 @@ Alejarse de los abusones / Rutina de meditación / Experimento con cupcakes / Co
         <desc>Obligado a intercambiar sus valiosas pieles por un esclavo fugitivo bien educado, un rudo trampero jura recuperar las pieles de los indios y, más tarde, de los renegados que los mataron.</desc>
         <icon src="https://images.pluto.tv/series/6638f617c2d6a90013d02b93/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
+    <programme channel="6385e82900ab2e000768a058" start="20260605014919 +0000" stop="20260605033727 +0000">
+        <title>Caza al sol</title>
+        <desc>Una pareja de extraños llegan a un pequeño pueblo, cada uno de ellos tiene sus razones.</desc>
+        <icon src="https://images.pluto.tv/series/6638f4acc306f10014a6a36e/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
     <programme channel="63d7a8e5a9957100086bfc23" start="20260604212448 +0000" stop="20260604214848 +0000">
         <title>South Park VOSE: El último de los mehicanos</title>
         <desc>Un juego de 'patrulla fronteriza' acaba mal y Butters termina reavivando el orgullo mexicano, pero Cartman no va a dejar que el juego se acabe ahí.</desc>
@@ -22116,6 +22136,11 @@ Alejarse de los abusones / Rutina de meditación / Experimento con cupcakes / Co
         <title>Rio Grande</title>
         <desc>El Coronel York combate a los apaches desde su fuerte cercano a la frontera con México. Su hijo, que ha fracasado en West Pont, se alista a su regimiento.</desc>
         <icon src="https://images.pluto.tv/series/67404ae3e103890013151cd7/tile_1768604401932.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="6385e82900ab2e000768a058" start="20260605053127 +0000" stop="20260605071800 +0000">
+        <title>El pastor de las colinas</title>
+        <desc>Un forastero se establece en un pueblo de las montañas de Ozark. Su presencia resulta beneficiosa para la vida de sus vecinos.</desc>
+        <icon src="https://images.pluto.tv/series/64fee3b8cecd3f001332171e/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
     <programme channel="63d7a8e5a9957100086bfc23" start="20260605012448 +0000" stop="20260605014848 +0000">
         <title>South Park VOSE: Volviéndose nativo</title>

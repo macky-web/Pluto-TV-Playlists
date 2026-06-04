@@ -1616,6 +1616,11 @@
         <desc>Un médico británico lucha contra una epidemia de cólera en un pequeño pueblo chino, mientras está atrapado en un matrimonio sin amor con una mujer infiel.</desc>
         <icon src="https://images.pluto.tv/series/6735c483b7ea5e0013a68033/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
+    <programme channel="5f1ac9a2d3611d0007a844bb" start="20260604134628 +0000" stop="20260604152934 +0000">
+        <title>Con la magia en los zapatos</title>
+        <desc>Un zapatero, aburrido de su vida cotidiana, tropieza con una reliquia mágica que le permite convertirse en otras personas y ver el mundo de otra manera.</desc>
+        <icon src="https://images.pluto.tv/series/6729e43c2678a5001418eea6/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
     <programme channel="5f6a38eaa5b68b0007a00e7a" start="20260604083138 +0000" stop="20260604094638 +0000">
         <title>Teo, cazador intergaláctico</title>
         <desc>Teo es un extraterrestre del planeta Sauracia que vive entre juegos y travesuras con su abuelo Olduk. En un viaje a la Tierra conoce a dos chicos, y con ellos como guías comprobará que la amistad es muy importante para la existencia.</desc>
@@ -6496,6 +6501,11 @@ Alejarse de los abusones / Rutina de meditación / Experimento con cupcakes / Co
         <title>Hermosas criaturas</title>
         <desc>Ethan y Lena se conocen y se enamoran, y juntos descubren los oscuros secretos de sus respectivas familias, su historia y su ciudad en este thriller romántico sobrenatural.</desc>
         <icon src="https://images.pluto.tv/series/6761a170381eea0013640bb3/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="5f1ac9a2d3611d0007a844bb" start="20260604173727 +0000" stop="20260604191907 +0000">
+        <title>Red Dog, una historia de lealtad</title>
+        <desc>Basada en una historia real, la película cuenta cómo un perro recorre Australia creando vínculos con los habitantes de un pueblo minero, convirtiéndose en un símbolo de amistad y lealtad.</desc>
+        <icon src="https://images.pluto.tv/series/69fb6c8ca3d970fa62b16b4f/tile_1778085004865.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
     <programme channel="5f6a38eaa5b68b0007a00e7a" start="20260604125538 +0000" stop="20260604143338 +0000">
         <title>Jurassic Games</title>
@@ -12327,6 +12337,11 @@ Alejarse de los abusones / Rutina de meditación / Experimento con cupcakes / Co
         <desc>El cineasta Roman Polanski aumenta el suspense en un thriller sobre un escritor (Ewan McGregor) que redacta las memorias de un ex primer ministro (Pierce Brosnan).</desc>
         <icon src="https://images.pluto.tv/series/6735d3fdb7ea5e0013a6a2c0/tile_1777577402668.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
+    <programme channel="60cc807324d60a0007708dc8" start="20260604214310 +0000" stop="20260604231310 +0000">
+        <title>El asedio</title>
+        <desc>La película relata la historia de unos rehenes que se ven envueltos en una situación en la que participan un ex convicto, los federales, la policía local y la mafia.</desc>
+        <icon src="https://images.pluto.tv/series/616fc57cf3593c001aa52b04/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
     <programme channel="612ce5214bb5790007ad3016" start="20260604164417 +0000" stop="20260604173917 +0000">
         <title>Historias de Ultratumba: Espiritu diabólico</title>
         <desc>¿Qué tan diferente podría ser nuestra realidad si no pudiéramos sentir y comunicarnos de las formas más convencionales? Para Marie, este es un tema que forma parte de su día a día. Su hija Julie padece una condición mental que la debilita.</desc>
@@ -13222,85 +13237,15 @@ Alejarse de los abusones / Rutina de meditación / Experimento con cupcakes / Co
         <desc>Conheçam Monty - o rinoceronte mais solitário do zoológico. Ele precisa de um amigo, e Gil e os Bubble Guppies estão prontos para ajudar enquanto aprendem sobre os outros habitantes do zoológico!</desc>
         <icon src="https://images.pluto.tv/series/6a0d9d888b8e147fa4a8cccb/tile_1780567988737.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="5f1aa9bcd8160700076d45d1" start="20260604185625 +0000" stop="20260604192101 +0000">
-        <title>Go, Diego, Go!</title>
-        <desc>Diego e Pepito, um pequeno pinguim perdido,  mergulham de cabeça em uma aventura antártica para encontrar a escola de Pepito.</desc>
-        <icon src="https://images.pluto.tv/series/6a0d9d8ef4a627f3b0f991dd/tile_1780567989584.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    <programme channel="5f1aa9bcd8160700076d45d1" start="20260604185624 +0000" stop="20260604213000 +0000">
+        <title>Pluto TV Junior</title>
+        <desc>no info available</desc>
+        <icon src="https://images.pluto.tv/channels/5f1aa9bcd8160700076d45d1/featuredImage_1748328566610.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
     </programme>
-    <programme channel="5f1aa9bcd8160700076d45d1" start="20260604192101 +0000" stop="20260604194530 +0000">
-        <title>Go, Diego, Go!</title>
-        <desc>É tempo de pular o Carnaval no topo da montanha. Linda, a lhama, ficou de trazer música e guloseimas para a festa, mas ela sumiu!</desc>
-        <icon src="https://images.pluto.tv/series/6a0d9d8ef4a627f3b0f991dd/tile_1780567989584.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="5f1aa9bcd8160700076d45d1" start="20260604194531 +0000" stop="20260604200806 +0000">
-        <title>Shimmer y Shine</title>
-        <desc>Leah convidou Shimmer e Shine para sua primeira festa do pijama, onde as amigas vão comer pizza, dançar a noite toda e dormir em um forte feito de almofadas!</desc>
-        <icon src="https://images.pluto.tv/series/6a0d9d87c2b638404f76cb0e/tile_1780567990532.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="5f1aa9bcd8160700076d45d1" start="20260604200807 +0000" stop="20260604203004 +0000">
-        <title>Shimmer y Shine</title>
-        <desc>Leah e Zac economizaram durante meses para ganhar o grande prêmio no fliperama da cidade: um teclado super legal para tocar com os pés! Mas, ao trocar os tickets, a máquina estraga e eles perdem todas suas economias.</desc>
-        <icon src="https://images.pluto.tv/series/6a0d9d87c2b638404f76cb0e/tile_1780567990532.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="5f1aa9bcd8160700076d45d1" start="20260604203004 +0000" stop="20260604205239 +0000">
-        <title>Shimmer y Shine</title>
-        <desc>Leah e Zac estão animados para um dia de boliche! Como Leah está tendo dificuldade para tentar derrubar os pinos, ela chama Shimmer e Shine para trazer um pouco de magia ao jogo e melhorar suas jogadas.</desc>
-        <icon src="https://images.pluto.tv/series/6a0d9d87c2b638404f76cb0e/tile_1780567990532.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="5f1aa9bcd8160700076d45d1" start="20260604205240 +0000" stop="20260604211515 +0000">
-        <title>Shimmer y Shine</title>
-        <desc>Leah e Zac estão no Parque de Skate treinando para a grande competição de skate. Mas, pouco antes da competição começar, o skate de Leah quebra!</desc>
-        <icon src="https://images.pluto.tv/series/6a0d9d87c2b638404f76cb0e/tile_1780567990532.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="5f1aa9bcd8160700076d45d1" start="20260604211515 +0000" stop="20260604213848 +0000">
-        <title>Dora, la exploradora</title>
-        <desc>Nada consegue deter Dora e Botas, eles nunca falham! A missão agora é entregar correspondências, e tem até uma para o Raposo!</desc>
-        <icon src="https://images.pluto.tv/series/6a0d9d8702b6c1c00a9eae3f/tile_1780567989129.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="5f1aab1d29b39600073e243f" start="20260604170610 +0000" stop="20260604173610 +0000">
+    <programme channel="5f1aab1d29b39600073e243f" start="20260604173000 +0000" stop="20260604213000 +0000">
         <title>Pluto TV Kids</title>
-        <desc>Los Pitufos están apoderándose de Pluto. Durante todo julio disfruta de las aventuras de tus pequeños amigos azules aquí, en Pluto TV Kids.</desc>
-        <icon src="https://images.pluto.tv/series/68246bba5c6467519563a1be/tile_1747217339632.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="5f1aab1d29b39600073e243f" start="20260604173610 +0000" stop="20260604180610 +0000">
-        <title>Pluto TV Kids</title>
-        <desc>Los Pitufos están apoderándose de Pluto. Durante todo julio disfruta de las aventuras de tus pequeños amigos azules aquí, en Pluto TV Kids.</desc>
-        <icon src="https://images.pluto.tv/series/68246bba5c6467519563a1be/tile_1747217339632.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="5f1aab1d29b39600073e243f" start="20260604180610 +0000" stop="20260604183610 +0000">
-        <title>Pluto TV Kids</title>
-        <desc>Los Pitufos están apoderándose de Pluto. Durante todo julio disfruta de las aventuras de tus pequeños amigos azules aquí, en Pluto TV Kids.</desc>
-        <icon src="https://images.pluto.tv/series/68246bba5c6467519563a1be/tile_1747217339632.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="5f1aab1d29b39600073e243f" start="20260604183610 +0000" stop="20260604190610 +0000">
-        <title>Pluto TV Kids</title>
-        <desc>Los Pitufos están apoderándose de Pluto. Durante todo julio disfruta de las aventuras de tus pequeños amigos azules aquí, en Pluto TV Kids.</desc>
-        <icon src="https://images.pluto.tv/series/68246bba5c6467519563a1be/tile_1747217339632.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="5f1aab1d29b39600073e243f" start="20260604190610 +0000" stop="20260604193610 +0000">
-        <title>Pluto TV Kids</title>
-        <desc>Los Pitufos están apoderándose de Pluto. Durante todo julio disfruta de las aventuras de tus pequeños amigos azules aquí, en Pluto TV Kids.</desc>
-        <icon src="https://images.pluto.tv/series/68246bba5c6467519563a1be/tile_1747217339632.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="5f1aab1d29b39600073e243f" start="20260604193610 +0000" stop="20260604200610 +0000">
-        <title>Pluto TV Kids</title>
-        <desc>Los Pitufos están apoderándose de Pluto. Durante todo julio disfruta de las aventuras de tus pequeños amigos azules aquí, en Pluto TV Kids.</desc>
-        <icon src="https://images.pluto.tv/series/68246bba5c6467519563a1be/tile_1747217339632.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="5f1aab1d29b39600073e243f" start="20260604200610 +0000" stop="20260604203610 +0000">
-        <title>Pluto TV Kids</title>
-        <desc>Los Pitufos están apoderándose de Pluto. Durante todo julio disfruta de las aventuras de tus pequeños amigos azules aquí, en Pluto TV Kids.</desc>
-        <icon src="https://images.pluto.tv/series/68246bba5c6467519563a1be/tile_1747217339632.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="5f1aab1d29b39600073e243f" start="20260604203610 +0000" stop="20260604210610 +0000">
-        <title>Pluto TV Kids</title>
-        <desc>Los Pitufos están apoderándose de Pluto. Durante todo julio disfruta de las aventuras de tus pequeños amigos azules aquí, en Pluto TV Kids.</desc>
-        <icon src="https://images.pluto.tv/series/68246bba5c6467519563a1be/tile_1747217339632.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="5f1aab1d29b39600073e243f" start="20260604210610 +0000" stop="20260604213610 +0000">
-        <title>Pluto TV Kids</title>
-        <desc>Los Pitufos están apoderándose de Pluto. Durante todo julio disfruta de las aventuras de tus pequeños amigos azules aquí, en Pluto TV Kids.</desc>
-        <icon src="https://images.pluto.tv/series/68246bba5c6467519563a1be/tile_1747217339632.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+        <desc>no info available</desc>
+        <icon src="https://images.pluto.tv/channels/5f1aab1d29b39600073e243f/featuredImage_1755854217838.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
     </programme>
     <programme channel="5f1aca0b4e448e00075e7c5e" start="20260604170701 +0000" stop="20260604173701 +0000">
         <title>Bob Esponja</title>
@@ -13402,50 +13347,10 @@ Alejarse de los abusones / Rutina de meditación / Experimento con cupcakes / Co
         <desc>En este programa con imágenes inéditas de la primera y segunda temporada, Frank Cuesta se enfrenta a su mayor enemigo, aquel que es capaz de quitarle el sueño, el agua. Y para ello, bucea en el Acuario de Bangkok rodeado de tiburones.</desc>
         <icon src="https://images.pluto.tv/series/61c066d8f30167001a6325bf/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="609e7e423e9173000706a681" start="20260604172000 +0000" stop="20260604175000 +0000">
+    <programme channel="609e7e423e9173000706a681" start="20260604173000 +0000" stop="20260604213000 +0000">
         <title>Pluto TV Kids Classics</title>
-        <desc>¡Bienvenido a Pluto TV Kids Classics, donde podrás ver ¡Aaah, Monstruos!, La Vida Moderna de Rocko, ¡Los Castores Cascarrabias y muchos clásicos más! ¡Todo en  Pluto TV Kids Classics!</desc>
-        <icon src="https://images.pluto.tv/series/6824897a9eed174f7fbdec92/tile_1747224978368.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="609e7e423e9173000706a681" start="20260604175000 +0000" stop="20260604182000 +0000">
-        <title>Pluto TV Kids Classics</title>
-        <desc>¡Bienvenido a Pluto TV Kids Classics, donde podrás ver ¡Aaah, Monstruos!, La Vida Moderna de Rocko, ¡Los Castores Cascarrabias y muchos clásicos más! ¡Todo en  Pluto TV Kids Classics!</desc>
-        <icon src="https://images.pluto.tv/series/6824897a9eed174f7fbdec92/tile_1747224978368.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="609e7e423e9173000706a681" start="20260604182000 +0000" stop="20260604185000 +0000">
-        <title>Pluto TV Kids Classics</title>
-        <desc>¡Bienvenido a Pluto TV Kids Classics, donde podrás ver ¡Aaah, Monstruos!, La Vida Moderna de Rocko, ¡Los Castores Cascarrabias y muchos clásicos más! ¡Todo en  Pluto TV Kids Classics!</desc>
-        <icon src="https://images.pluto.tv/series/6824897a9eed174f7fbdec92/tile_1747224978368.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="609e7e423e9173000706a681" start="20260604185000 +0000" stop="20260604192000 +0000">
-        <title>Pluto TV Kids Classics</title>
-        <desc>¡Bienvenido a Pluto TV Kids Classics, donde podrás ver ¡Aaah, Monstruos!, La Vida Moderna de Rocko, ¡Los Castores Cascarrabias y muchos clásicos más! ¡Todo en  Pluto TV Kids Classics!</desc>
-        <icon src="https://images.pluto.tv/series/6824897a9eed174f7fbdec92/tile_1747224978368.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="609e7e423e9173000706a681" start="20260604192000 +0000" stop="20260604195000 +0000">
-        <title>Pluto TV Kids Classics</title>
-        <desc>¡Bienvenido a Pluto TV Kids Classics, donde podrás ver ¡Aaah, Monstruos!, La Vida Moderna de Rocko, ¡Los Castores Cascarrabias y muchos clásicos más! ¡Todo en  Pluto TV Kids Classics!</desc>
-        <icon src="https://images.pluto.tv/series/6824897a9eed174f7fbdec92/tile_1747224978368.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="609e7e423e9173000706a681" start="20260604195000 +0000" stop="20260604202000 +0000">
-        <title>Pluto TV Kids Classics</title>
-        <desc>¡Bienvenido a Pluto TV Kids Classics, donde podrás ver ¡Aaah, Monstruos!, La Vida Moderna de Rocko, ¡Los Castores Cascarrabias y muchos clásicos más! ¡Todo en  Pluto TV Kids Classics!</desc>
-        <icon src="https://images.pluto.tv/series/6824897a9eed174f7fbdec92/tile_1747224978368.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="609e7e423e9173000706a681" start="20260604202000 +0000" stop="20260604205000 +0000">
-        <title>Pluto TV Kids Classics</title>
-        <desc>¡Bienvenido a Pluto TV Kids Classics, donde podrás ver ¡Aaah, Monstruos!, La Vida Moderna de Rocko, ¡Los Castores Cascarrabias y muchos clásicos más! ¡Todo en  Pluto TV Kids Classics!</desc>
-        <icon src="https://images.pluto.tv/series/6824897a9eed174f7fbdec92/tile_1747224978368.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="609e7e423e9173000706a681" start="20260604205000 +0000" stop="20260604212000 +0000">
-        <title>Pluto TV Kids Classics</title>
-        <desc>¡Bienvenido a Pluto TV Kids Classics, donde podrás ver ¡Aaah, Monstruos!, La Vida Moderna de Rocko, ¡Los Castores Cascarrabias y muchos clásicos más! ¡Todo en  Pluto TV Kids Classics!</desc>
-        <icon src="https://images.pluto.tv/series/6824897a9eed174f7fbdec92/tile_1747224978368.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="609e7e423e9173000706a681" start="20260604212000 +0000" stop="20260604215000 +0000">
-        <title>Pluto TV Kids Classics</title>
-        <desc>¡Bienvenido a Pluto TV Kids Classics, donde podrás ver ¡Aaah, Monstruos!, La Vida Moderna de Rocko, ¡Los Castores Cascarrabias y muchos clásicos más! ¡Todo en  Pluto TV Kids Classics!</desc>
-        <icon src="https://images.pluto.tv/series/6824897a9eed174f7fbdec92/tile_1747224978368.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+        <desc>no info available</desc>
+        <icon src="https://images.pluto.tv/channels/609e7e423e9173000706a681/featuredImage_1750147034191.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
     </programme>
     <programme channel="60dafb9a0df1ba000758d37b" start="20260604164845 +0000" stop="20260604174945 +0000">
         <title>Los Mosqueteros: El padre pródigo</title>
@@ -13827,50 +13732,10 @@ Alejarse de los abusones / Rutina de meditación / Experimento con cupcakes / Co
         <desc>Nadie antes de Newton había aportado tanto para el conocimiento del universo, especialmente gracias a su explicación de las leyes de la gravedad.</desc>
         <icon src="https://images.pluto.tv/series/6245b00ecb3fb600134696b3/tile_1769122441742.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="63eb944dc111bc0008fe7021" start="20260604172518 +0000" stop="20260604175518 +0000">
+    <programme channel="63eb944dc111bc0008fe7021" start="20260604173000 +0000" stop="20260604213000 +0000">
         <title>Pluto TV Teen</title>
-        <desc>Las sitcoms Teen más icónicas de los 90' y los 2000 reunidas en un solo canal. Pasa el día con Drake &amp; Josh, Kenan &amp; Kell, Las historias de Clarissa, y Wendell &amp; Vinnie en Pluto TV Teen.</desc>
-        <icon src="https://images.pluto.tv/series/682470f3641c35a167cda359/tile_1747218678394.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="63eb944dc111bc0008fe7021" start="20260604175518 +0000" stop="20260604182518 +0000">
-        <title>Pluto TV Teen</title>
-        <desc>Las sitcoms Teen más icónicas de los 90' y los 2000 reunidas en un solo canal. Pasa el día con Drake &amp; Josh, Kenan &amp; Kell, Las historias de Clarissa, y Wendell &amp; Vinnie en Pluto TV Teen.</desc>
-        <icon src="https://images.pluto.tv/series/682470f3641c35a167cda359/tile_1747218678394.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="63eb944dc111bc0008fe7021" start="20260604182518 +0000" stop="20260604185518 +0000">
-        <title>Pluto TV Teen</title>
-        <desc>Las sitcoms Teen más icónicas de los 90' y los 2000 reunidas en un solo canal. Pasa el día con Drake &amp; Josh, Kenan &amp; Kell, Las historias de Clarissa, y Wendell &amp; Vinnie en Pluto TV Teen.</desc>
-        <icon src="https://images.pluto.tv/series/682470f3641c35a167cda359/tile_1747218678394.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="63eb944dc111bc0008fe7021" start="20260604185518 +0000" stop="20260604192518 +0000">
-        <title>Pluto TV Teen</title>
-        <desc>Las sitcoms Teen más icónicas de los 90' y los 2000 reunidas en un solo canal. Pasa el día con Drake &amp; Josh, Kenan &amp; Kell, Las historias de Clarissa, y Wendell &amp; Vinnie en Pluto TV Teen.</desc>
-        <icon src="https://images.pluto.tv/series/682470f3641c35a167cda359/tile_1747218678394.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="63eb944dc111bc0008fe7021" start="20260604192518 +0000" stop="20260604195518 +0000">
-        <title>Pluto TV Teen</title>
-        <desc>Las sitcoms Teen más icónicas de los 90' y los 2000 reunidas en un solo canal. Pasa el día con Drake &amp; Josh, Kenan &amp; Kell, Las historias de Clarissa, y Wendell &amp; Vinnie en Pluto TV Teen.</desc>
-        <icon src="https://images.pluto.tv/series/682470f3641c35a167cda359/tile_1747218678394.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="63eb944dc111bc0008fe7021" start="20260604195518 +0000" stop="20260604202518 +0000">
-        <title>Pluto TV Teen</title>
-        <desc>Las sitcoms Teen más icónicas de los 90' y los 2000 reunidas en un solo canal. Pasa el día con Drake &amp; Josh, Kenan &amp; Kell, Las historias de Clarissa, y Wendell &amp; Vinnie en Pluto TV Teen.</desc>
-        <icon src="https://images.pluto.tv/series/682470f3641c35a167cda359/tile_1747218678394.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="63eb944dc111bc0008fe7021" start="20260604202518 +0000" stop="20260604205518 +0000">
-        <title>Pluto TV Teen</title>
-        <desc>Las sitcoms Teen más icónicas de los 90' y los 2000 reunidas en un solo canal. Pasa el día con Drake &amp; Josh, Kenan &amp; Kell, Las historias de Clarissa, y Wendell &amp; Vinnie en Pluto TV Teen.</desc>
-        <icon src="https://images.pluto.tv/series/682470f3641c35a167cda359/tile_1747218678394.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="63eb944dc111bc0008fe7021" start="20260604205518 +0000" stop="20260604212518 +0000">
-        <title>Pluto TV Teen</title>
-        <desc>Las sitcoms Teen más icónicas de los 90' y los 2000 reunidas en un solo canal. Pasa el día con Drake &amp; Josh, Kenan &amp; Kell, Las historias de Clarissa, y Wendell &amp; Vinnie en Pluto TV Teen.</desc>
-        <icon src="https://images.pluto.tv/series/682470f3641c35a167cda359/tile_1747218678394.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="63eb944dc111bc0008fe7021" start="20260604212518 +0000" stop="20260604215518 +0000">
-        <title>Pluto TV Teen</title>
-        <desc>Las sitcoms Teen más icónicas de los 90' y los 2000 reunidas en un solo canal. Pasa el día con Drake &amp; Josh, Kenan &amp; Kell, Las historias de Clarissa, y Wendell &amp; Vinnie en Pluto TV Teen.</desc>
-        <icon src="https://images.pluto.tv/series/682470f3641c35a167cda359/tile_1747218678394.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+        <desc>no info available</desc>
+        <icon src="https://images.pluto.tv/channels/63eb944dc111bc0008fe7021/featuredImage_1761820520888.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
     </programme>
     <programme channel="64db2e0835425100080f2f5a" start="20260604171414 +0000" stop="20260604181303 +0000">
         <title>Espacio Para Mejorar</title>
@@ -14017,50 +13882,10 @@ Alejarse de los abusones / Rutina de meditación / Experimento con cupcakes / Co
         <desc>Los estadios deportivos han sido globalmente reconocidos como tesoros arquitectónicos de muchas ciudades. Nuestro top ten deja claro que los estadios más impresionantes no son solo los de fútbol o beisbol, sino también los de natación u atletismo.</desc>
         <icon src="https://images.pluto.tv/series/68db8f07d70c07ace8dab2f9/tile_1759219830479.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="686cd8bb9d079f48dbbdfecb" start="20260604173000 +0000" stop="20260604180000 +0000">
+    <programme channel="686cd8bb9d079f48dbbdfecb" start="20260604173000 +0000" stop="20260604213000 +0000">
         <title>Metal Rocks</title>
-        <desc>Metal Rocks es el canal definitivo para toda la música Metal, uniendo los mayores sellos discográficos en un solo lugar. Vive la intensidad del metal sin parar, incluyendo bandas top y sus últimos videos 24/7.</desc>
-        <icon src="https://images.pluto.tv/series/690c74d28caba6f04684c5ad/tile_1762424755777.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="686cd8bb9d079f48dbbdfecb" start="20260604180000 +0000" stop="20260604183000 +0000">
-        <title>Metal Rocks</title>
-        <desc>Metal Rocks es el canal definitivo para toda la música Metal, uniendo los mayores sellos discográficos en un solo lugar. Vive la intensidad del metal sin parar, incluyendo bandas top y sus últimos videos 24/7.</desc>
-        <icon src="https://images.pluto.tv/series/690c74d28caba6f04684c5ad/tile_1762424755777.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="686cd8bb9d079f48dbbdfecb" start="20260604183000 +0000" stop="20260604190000 +0000">
-        <title>Metal Rocks</title>
-        <desc>Metal Rocks es el canal definitivo para toda la música Metal, uniendo los mayores sellos discográficos en un solo lugar. Vive la intensidad del metal sin parar, incluyendo bandas top y sus últimos videos 24/7.</desc>
-        <icon src="https://images.pluto.tv/series/690c74d28caba6f04684c5ad/tile_1762424755777.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="686cd8bb9d079f48dbbdfecb" start="20260604190000 +0000" stop="20260604193000 +0000">
-        <title>Metal Rocks</title>
-        <desc>Metal Rocks es el canal definitivo para toda la música Metal, uniendo los mayores sellos discográficos en un solo lugar. Vive la intensidad del metal sin parar, incluyendo bandas top y sus últimos videos 24/7.</desc>
-        <icon src="https://images.pluto.tv/series/690c74d28caba6f04684c5ad/tile_1762424755777.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="686cd8bb9d079f48dbbdfecb" start="20260604193000 +0000" stop="20260604200000 +0000">
-        <title>Metal Rocks</title>
-        <desc>Metal Rocks es el canal definitivo para toda la música Metal, uniendo los mayores sellos discográficos en un solo lugar. Vive la intensidad del metal sin parar, incluyendo bandas top y sus últimos videos 24/7.</desc>
-        <icon src="https://images.pluto.tv/series/690c74d28caba6f04684c5ad/tile_1762424755777.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="686cd8bb9d079f48dbbdfecb" start="20260604200000 +0000" stop="20260604203000 +0000">
-        <title>Metal Rocks</title>
-        <desc>Metal Rocks es el canal definitivo para toda la música Metal, uniendo los mayores sellos discográficos en un solo lugar. Vive la intensidad del metal sin parar, incluyendo bandas top y sus últimos videos 24/7.</desc>
-        <icon src="https://images.pluto.tv/series/690c74d28caba6f04684c5ad/tile_1762424755777.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="686cd8bb9d079f48dbbdfecb" start="20260604203000 +0000" stop="20260604210000 +0000">
-        <title>Metal Rocks</title>
-        <desc>Metal Rocks es el canal definitivo para toda la música Metal, uniendo los mayores sellos discográficos en un solo lugar. Vive la intensidad del metal sin parar, incluyendo bandas top y sus últimos videos 24/7.</desc>
-        <icon src="https://images.pluto.tv/series/690c74d28caba6f04684c5ad/tile_1762424755777.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="686cd8bb9d079f48dbbdfecb" start="20260604210000 +0000" stop="20260604213000 +0000">
-        <title>Metal Rocks</title>
-        <desc>Metal Rocks es el canal definitivo para toda la música Metal, uniendo los mayores sellos discográficos en un solo lugar. Vive la intensidad del metal sin parar, incluyendo bandas top y sus últimos videos 24/7.</desc>
-        <icon src="https://images.pluto.tv/series/690c74d28caba6f04684c5ad/tile_1762424755777.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="686cd8bb9d079f48dbbdfecb" start="20260604213000 +0000" stop="20260604220000 +0000">
-        <title>Metal Rocks</title>
-        <desc>Metal Rocks es el canal definitivo para toda la música Metal, uniendo los mayores sellos discográficos en un solo lugar. Vive la intensidad del metal sin parar, incluyendo bandas top y sus últimos videos 24/7.</desc>
-        <icon src="https://images.pluto.tv/series/690c74d28caba6f04684c5ad/tile_1762424755777.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+        <desc>no info available</desc>
+        <icon src="https://images.pluto.tv/channels/686cd8bb9d079f48dbbdfecb/featuredImage_1756372276884.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
     </programme>
     <programme channel="68779a09c691b3f0964127c6" start="20260604171039 +0000" stop="20260604173739 +0000">
         <title>Heidi 2D: ¿Dónde están las montañas?</title>
@@ -14322,15 +14147,10 @@ Alejarse de los abusones / Rutina de meditación / Experimento con cupcakes / Co
         <desc>Jonathan y Michael se enfrentarán a la Semana del Inversor. Philip y Angelina celebrarán la gran fiesta de aniversario que llevan semanas preparando. Fiona se esfuerza en tener listo el comedor para la llegada del alcalde.</desc>
         <icon src="https://images.pluto.tv/series/69ce30cb5228f729652cd858/tile_1775120588777.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="690dd10a37b131228d76d5b1" start="20260604202500 +0000" stop="20260604203600 +0000">
-        <title>Casas para vivirlas</title>
-        <desc>Cuatro profesionales del diseño y la decoración presentan una vivienda que han reformado y decorado, explicando cada decisión, el equilibrio entre estética y funcionalidad y cómo trasladar el diseño editorial al día a día real.</desc>
-        <icon src="https://images.pluto.tv/series/697096cec1938362f3da8541/tile_1768986319357.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="690dd10a37b131228d76d5b1" start="20260604203600 +0000" stop="20260604210200 +0000">
-        <title>S.O.S. Jardines</title>
-        <desc>El contratista Brian McCourt y la diseñadora Sarah Keenleyside ofrecen espacios de patio trasero personalizados.</desc>
-        <icon src="https://images.pluto.tv/series/6944039663f946a2ce49a175/tile_1766065102598.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    <programme channel="690dd10a37b131228d76d5b1" start="20260604202500 +0000" stop="20260604210200 +0000">
+        <title>El Mueble</title>
+        <desc>no info available</desc>
+        <icon src="https://images.pluto.tv/channels/690dd10a37b131228d76d5b1/featuredImage_1764966923664.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
     </programme>
     <programme channel="690dd10a37b131228d76d5b1" start="20260604210200 +0000" stop="20260604212800 +0000">
         <title>S.O.S. Jardines</title>
@@ -14392,50 +14212,10 @@ Alejarse de los abusones / Rutina de meditación / Experimento con cupcakes / Co
         <desc>Guillermo Tell es el cazador más valiente y con más puntería de toda Suiza. Las Mellizas van a conocerlo junto con su hijo Gualteri y verán como Gessler, un malvado caballero, hace prisionero a este último.</desc>
         <icon src="https://images.pluto.tv/series/5f4371270b2a6c001ab9d022/tile_1768930920991.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="69b3db5d61e8e298254c7108" start="20260604173000 +0000" stop="20260604180000 +0000">
+    <programme channel="69b3db5d61e8e298254c7108" start="20260604173000 +0000" stop="20260604213000 +0000">
         <title>Space Live</title>
-        <desc>Mira el mundo como lo hacen los astronautas, con un nivel de detalle impresionante, con una señal de las cámaras de vídeo de la Estación Espacial Internacional. Observa la primera retransmisión en directo de nuestro planeta.</desc>
-        <icon src="https://images.pluto.tv/series/69e2030ff0f1a7d7326ba1c0/tile_1776419732119.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="69b3db5d61e8e298254c7108" start="20260604180000 +0000" stop="20260604183000 +0000">
-        <title>Space Live</title>
-        <desc>Mira el mundo como lo hacen los astronautas, con un nivel de detalle impresionante, con una señal de las cámaras de vídeo de la Estación Espacial Internacional. Observa la primera retransmisión en directo de nuestro planeta.</desc>
-        <icon src="https://images.pluto.tv/series/69e2030ff0f1a7d7326ba1c0/tile_1776419732119.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="69b3db5d61e8e298254c7108" start="20260604183000 +0000" stop="20260604190000 +0000">
-        <title>Space Live</title>
-        <desc>Mira el mundo como lo hacen los astronautas, con un nivel de detalle impresionante, con una señal de las cámaras de vídeo de la Estación Espacial Internacional. Observa la primera retransmisión en directo de nuestro planeta.</desc>
-        <icon src="https://images.pluto.tv/series/69e2030ff0f1a7d7326ba1c0/tile_1776419732119.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="69b3db5d61e8e298254c7108" start="20260604190000 +0000" stop="20260604193000 +0000">
-        <title>Space Live</title>
-        <desc>Mira el mundo como lo hacen los astronautas, con un nivel de detalle impresionante, con una señal de las cámaras de vídeo de la Estación Espacial Internacional. Observa la primera retransmisión en directo de nuestro planeta.</desc>
-        <icon src="https://images.pluto.tv/series/69e2030ff0f1a7d7326ba1c0/tile_1776419732119.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="69b3db5d61e8e298254c7108" start="20260604193000 +0000" stop="20260604200000 +0000">
-        <title>Space Live</title>
-        <desc>Mira el mundo como lo hacen los astronautas, con un nivel de detalle impresionante, con una señal de las cámaras de vídeo de la Estación Espacial Internacional. Observa la primera retransmisión en directo de nuestro planeta.</desc>
-        <icon src="https://images.pluto.tv/series/69e2030ff0f1a7d7326ba1c0/tile_1776419732119.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="69b3db5d61e8e298254c7108" start="20260604200000 +0000" stop="20260604203000 +0000">
-        <title>Space Live</title>
-        <desc>Mira el mundo como lo hacen los astronautas, con un nivel de detalle impresionante, con una señal de las cámaras de vídeo de la Estación Espacial Internacional. Observa la primera retransmisión en directo de nuestro planeta.</desc>
-        <icon src="https://images.pluto.tv/series/69e2030ff0f1a7d7326ba1c0/tile_1776419732119.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="69b3db5d61e8e298254c7108" start="20260604203000 +0000" stop="20260604210000 +0000">
-        <title>Space Live</title>
-        <desc>Mira el mundo como lo hacen los astronautas, con un nivel de detalle impresionante, con una señal de las cámaras de vídeo de la Estación Espacial Internacional. Observa la primera retransmisión en directo de nuestro planeta.</desc>
-        <icon src="https://images.pluto.tv/series/69e2030ff0f1a7d7326ba1c0/tile_1776419732119.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="69b3db5d61e8e298254c7108" start="20260604210000 +0000" stop="20260604213000 +0000">
-        <title>Space Live</title>
-        <desc>Mira el mundo como lo hacen los astronautas, con un nivel de detalle impresionante, con una señal de las cámaras de vídeo de la Estación Espacial Internacional. Observa la primera retransmisión en directo de nuestro planeta.</desc>
-        <icon src="https://images.pluto.tv/series/69e2030ff0f1a7d7326ba1c0/tile_1776419732119.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="69b3db5d61e8e298254c7108" start="20260604213000 +0000" stop="20260604220000 +0000">
-        <title>Space Live</title>
-        <desc>Mira el mundo como lo hacen los astronautas, con un nivel de detalle impresionante, con una señal de las cámaras de vídeo de la Estación Espacial Internacional. Observa la primera retransmisión en directo de nuestro planeta.</desc>
-        <icon src="https://images.pluto.tv/series/69e2030ff0f1a7d7326ba1c0/tile_1776419732119.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+        <desc>no info available</desc>
+        <icon src="https://images.pluto.tv/channels/69b3db5d61e8e298254c7108/featuredImage_1775061733929.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
     </programme>
     <programme channel="5f1aadf373bed3000794d1d7" start="20260604164922 +0000" stop="20260604173722 +0000">
         <title>Ex On The Beach US ES: La corte de exes ahora está en sesión</title>
@@ -17406,6 +17186,11 @@ Alejarse de los abusones / Rutina de meditación / Experimento con cupcakes / Co
         <title>Camino de la venganza</title>
         <desc>Obligado a intercambiar sus valiosas pieles por un esclavo fugitivo bien educado, un rudo trampero jura recuperar las pieles de los indios y, más tarde, de los renegados que los mataron.</desc>
         <icon src="https://images.pluto.tv/series/6638f617c2d6a90013d02b93/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="6385e82900ab2e000768a058" start="20260605014919 +0000" stop="20260605033727 +0000">
+        <title>Caza al sol</title>
+        <desc>Una pareja de extraños llegan a un pequeño pueblo, cada uno de ellos tiene sus razones.</desc>
+        <icon src="https://images.pluto.tv/series/6638f4acc306f10014a6a36e/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
     <programme channel="63d7a8e5a9957100086bfc23" start="20260604212448 +0000" stop="20260604214848 +0000">
         <title>South Park VOSE: El último de los mehicanos</title>
@@ -22116,6 +21901,11 @@ Alejarse de los abusones / Rutina de meditación / Experimento con cupcakes / Co
         <title>Rio Grande</title>
         <desc>El Coronel York combate a los apaches desde su fuerte cercano a la frontera con México. Su hijo, que ha fracasado en West Pont, se alista a su regimiento.</desc>
         <icon src="https://images.pluto.tv/series/67404ae3e103890013151cd7/tile_1768604401932.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="6385e82900ab2e000768a058" start="20260605053127 +0000" stop="20260605071800 +0000">
+        <title>El pastor de las colinas</title>
+        <desc>Un forastero se establece en un pueblo de las montañas de Ozark. Su presencia resulta beneficiosa para la vida de sus vecinos.</desc>
+        <icon src="https://images.pluto.tv/series/64fee3b8cecd3f001332171e/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
     <programme channel="63d7a8e5a9957100086bfc23" start="20260605012448 +0000" stop="20260605014848 +0000">
         <title>South Park VOSE: Volviéndose nativo</title>
@@ -31153,17 +30943,7 @@ Alejarse de los abusones / Rutina de meditación / Experimento con cupcakes / Co
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/5f1aa9bcd8160700076d45d1/featuredImage_1748328566610.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
     </programme>
-    <programme channel="5f1aab1d29b39600073e243f" start="20260605090610 +0000" stop="20260605093610 +0000">
-        <title>Pluto TV Kids</title>
-        <desc>Los Pitufos están apoderándose de Pluto. Durante todo julio disfruta de las aventuras de tus pequeños amigos azules aquí, en Pluto TV Kids.</desc>
-        <icon src="https://images.pluto.tv/series/68246bba5c6467519563a1be/tile_1747217339632.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="5f1aab1d29b39600073e243f" start="20260605093610 +0000" stop="20260605100610 +0000">
-        <title>Pluto TV Kids</title>
-        <desc>Los Pitufos están apoderándose de Pluto. Durante todo julio disfruta de las aventuras de tus pequeños amigos azules aquí, en Pluto TV Kids.</desc>
-        <icon src="https://images.pluto.tv/series/68246bba5c6467519563a1be/tile_1747217339632.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="5f1aab1d29b39600073e243f" start="20260605100610 +0000" stop="20260605133000 +0000">
+    <programme channel="5f1aab1d29b39600073e243f" start="20260605093000 +0000" stop="20260605133000 +0000">
         <title>Pluto TV Kids</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/5f1aab1d29b39600073e243f/featuredImage_1755854217838.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -31208,17 +30988,7 @@ Alejarse de los abusones / Rutina de meditación / Experimento con cupcakes / Co
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/600ae6a78d801e0007117d21/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
     </programme>
-    <programme channel="609e7e423e9173000706a681" start="20260605092000 +0000" stop="20260605095000 +0000">
-        <title>Pluto TV Kids Classics</title>
-        <desc>¡Bienvenido a Pluto TV Kids Classics, donde podrás ver ¡Aaah, Monstruos!, La Vida Moderna de Rocko, ¡Los Castores Cascarrabias y muchos clásicos más! ¡Todo en  Pluto TV Kids Classics!</desc>
-        <icon src="https://images.pluto.tv/series/6824897a9eed174f7fbdec92/tile_1747224978368.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="609e7e423e9173000706a681" start="20260605095000 +0000" stop="20260605102000 +0000">
-        <title>Pluto TV Kids Classics</title>
-        <desc>¡Bienvenido a Pluto TV Kids Classics, donde podrás ver ¡Aaah, Monstruos!, La Vida Moderna de Rocko, ¡Los Castores Cascarrabias y muchos clásicos más! ¡Todo en  Pluto TV Kids Classics!</desc>
-        <icon src="https://images.pluto.tv/series/6824897a9eed174f7fbdec92/tile_1747224978368.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="609e7e423e9173000706a681" start="20260605102000 +0000" stop="20260605133000 +0000">
+    <programme channel="609e7e423e9173000706a681" start="20260605093000 +0000" stop="20260605133000 +0000">
         <title>Pluto TV Kids Classics</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/609e7e423e9173000706a681/featuredImage_1750147034191.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -31368,17 +31138,7 @@ Alejarse de los abusones / Rutina de meditación / Experimento con cupcakes / Co
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/63c69c87808b740007599fe1/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
     </programme>
-    <programme channel="63eb944dc111bc0008fe7021" start="20260605092518 +0000" stop="20260605095518 +0000">
-        <title>Pluto TV Teen</title>
-        <desc>Las sitcoms Teen más icónicas de los 90' y los 2000 reunidas en un solo canal. Pasa el día con Drake &amp; Josh, Kenan &amp; Kell, Las historias de Clarissa, y Wendell &amp; Vinnie en Pluto TV Teen.</desc>
-        <icon src="https://images.pluto.tv/series/682470f3641c35a167cda359/tile_1747218678394.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="63eb944dc111bc0008fe7021" start="20260605095518 +0000" stop="20260605102518 +0000">
-        <title>Pluto TV Teen</title>
-        <desc>Las sitcoms Teen más icónicas de los 90' y los 2000 reunidas en un solo canal. Pasa el día con Drake &amp; Josh, Kenan &amp; Kell, Las historias de Clarissa, y Wendell &amp; Vinnie en Pluto TV Teen.</desc>
-        <icon src="https://images.pluto.tv/series/682470f3641c35a167cda359/tile_1747218678394.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="63eb944dc111bc0008fe7021" start="20260605102518 +0000" stop="20260605133000 +0000">
+    <programme channel="63eb944dc111bc0008fe7021" start="20260605093000 +0000" stop="20260605133000 +0000">
         <title>Pluto TV Teen</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/63eb944dc111bc0008fe7021/featuredImage_1761820520888.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -31438,17 +31198,7 @@ Alejarse de los abusones / Rutina de meditación / Experimento con cupcakes / Co
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/67517f923a61d40008c451f0/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
     </programme>
-    <programme channel="686cd8bb9d079f48dbbdfecb" start="20260605093000 +0000" stop="20260605100000 +0000">
-        <title>Metal Rocks</title>
-        <desc>Metal Rocks es el canal definitivo para toda la música Metal, uniendo los mayores sellos discográficos en un solo lugar. Vive la intensidad del metal sin parar, incluyendo bandas top y sus últimos videos 24/7.</desc>
-        <icon src="https://images.pluto.tv/series/690c74d28caba6f04684c5ad/tile_1762424755777.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="686cd8bb9d079f48dbbdfecb" start="20260605100000 +0000" stop="20260605103000 +0000">
-        <title>Metal Rocks</title>
-        <desc>Metal Rocks es el canal definitivo para toda la música Metal, uniendo los mayores sellos discográficos en un solo lugar. Vive la intensidad del metal sin parar, incluyendo bandas top y sus últimos videos 24/7.</desc>
-        <icon src="https://images.pluto.tv/series/690c74d28caba6f04684c5ad/tile_1762424755777.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="686cd8bb9d079f48dbbdfecb" start="20260605103000 +0000" stop="20260605133000 +0000">
+    <programme channel="686cd8bb9d079f48dbbdfecb" start="20260605093000 +0000" stop="20260605133000 +0000">
         <title>Metal Rocks</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/686cd8bb9d079f48dbbdfecb/featuredImage_1756372276884.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -31513,17 +31263,7 @@ Alejarse de los abusones / Rutina de meditación / Experimento con cupcakes / Co
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/68d27949793c71d988ca624c/featuredImage_1760370849906.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
     </programme>
-    <programme channel="68e8fe3bcba140ddfe903677" start="20260605092705 +0000" stop="20260605094829 +0000">
-        <title>Monster High: MH4 webisodes</title>
-        <desc>El equipo de animadoras de Cleo la abandona y le deja las vendas enredadas. Cleo convoca pruebas al día siguiente para rehacerlo. ¿Llenarán el gimnasio para unirse o será un fracaso total?</desc>
-        <icon src="https://images.pluto.tv/series/696dfb0cc1938362f368d3aa/tile_1768815373347.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="68e8fe3bcba140ddfe903677" start="20260605094829 +0000" stop="20260605101006 +0000">
-        <title>Monster High: MH4 webisodes</title>
-        <desc>Ghoulia intenta reactivar Frighttube, pero ya es tarde: se pasó el plazo. Están por rendirse cuando Deuce dice que su vídeo tiró el sitio. Al volver, descubren 10 millones de reproducciones. ¡Rumbo a Gloom Beach Fear Camp!</desc>
-        <icon src="https://images.pluto.tv/series/696dfb0cc1938362f368d3aa/tile_1768815373347.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="68e8fe3bcba140ddfe903677" start="20260605101006 +0000" stop="20260605133000 +0000">
+    <programme channel="68e8fe3bcba140ddfe903677" start="20260605093000 +0000" stop="20260605133000 +0000">
         <title>Monster High</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/68e8fe3bcba140ddfe903677/featuredImage_1761735230690.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -31563,17 +31303,7 @@ Alejarse de los abusones / Rutina de meditación / Experimento con cupcakes / Co
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/691ddf2a3ae32cf55263476d/featuredImage_1763569070882.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
     </programme>
-    <programme channel="69b3db5d61e8e298254c7108" start="20260605093000 +0000" stop="20260605100000 +0000">
-        <title>Space Live</title>
-        <desc>Mira el mundo como lo hacen los astronautas, con un nivel de detalle impresionante, con una señal de las cámaras de vídeo de la Estación Espacial Internacional. Observa la primera retransmisión en directo de nuestro planeta.</desc>
-        <icon src="https://images.pluto.tv/series/69e2030ff0f1a7d7326ba1c0/tile_1776419732119.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="69b3db5d61e8e298254c7108" start="20260605100000 +0000" stop="20260605103000 +0000">
-        <title>Space Live</title>
-        <desc>Mira el mundo como lo hacen los astronautas, con un nivel de detalle impresionante, con una señal de las cámaras de vídeo de la Estación Espacial Internacional. Observa la primera retransmisión en directo de nuestro planeta.</desc>
-        <icon src="https://images.pluto.tv/series/69e2030ff0f1a7d7326ba1c0/tile_1776419732119.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="69b3db5d61e8e298254c7108" start="20260605103000 +0000" stop="20260605133000 +0000">
+    <programme channel="69b3db5d61e8e298254c7108" start="20260605093000 +0000" stop="20260605133000 +0000">
         <title>Space Live</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/69b3db5d61e8e298254c7108/featuredImage_1775061733929.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
