@@ -1,1 +1,544 @@
-
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tv SYSTEM "xmltv.dtv">
+<tv source-info-name="nobody,xmltv.net,nzxmltv.com">
+    <programme channel="65eed3bb66eec80008b6954a" start="20260609141246 +0000" stop="20260609143508 +0000">
+        <title>Cops: Cops Bible Buddies</title>
+        <desc>Numerous patrol cars give chase to a man on a dirt bike refusing to yield, and an alleged armed robber is upfront about his reasons for running from police when approached.</desc>
+        <icon src="https://images.pluto.tv/series/67a1f730b3210d00130b21af/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="65eed3bb66eec80008b6954a" start="20260609143508 +0000" stop="20260609145732 +0000">
+        <title>Cops: Cops Shaking Like a Paint Mixer</title>
+        <desc>A man blames the weed found in his car on his absent nephew, a suspect in custody starts to convulse, and police respond to a call about an armed man tripping on bath salts.</desc>
+        <icon src="https://images.pluto.tv/series/67a1f730b3210d00130b21af/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="65eed3bb66eec80008b6954a" start="20260609145732 +0000" stop="20260609151954 +0000">
+        <title>Cops: Cops Love Gone Bad</title>
+        <desc>A man on a dirt bike tries to elude police while dumping his firearm, and after breaking up a parking lot drug deal, an officer advises a young suspect to make better choices.</desc>
+        <icon src="https://images.pluto.tv/series/67a1f730b3210d00130b21af/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="65eed3bb66eec80008b6954a" start="20260609151954 +0000" stop="20260609154216 +0000">
+        <title>Cops: Cops Crying Over Spilled Milk</title>
+        <desc>After chasing down a suspect on foot, officers retrieve a fully loaded revolver from his pants, and police respond to a call about a man wielding a knife outside a bar.</desc>
+        <icon src="https://images.pluto.tv/series/67a1f730b3210d00130b21af/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="65eed3bb66eec80008b6954a" start="20260609154216 +0000" stop="20260609160437 +0000">
+        <title>Cops: Cops Front Door Felony</title>
+        <desc>A fleeing motorcyclist tries to outsmart officers by hiding his bike in a retail garden area, and a concerned citizen reports seeing a man steal a package from a porch.</desc>
+        <icon src="https://images.pluto.tv/series/67a1f730b3210d00130b21af/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="65eed3bb66eec80008b6954a" start="20260609160437 +0000" stop="20260609162659 +0000">
+        <title>Cops: Cops What's in the Box</title>
+        <desc>A jaywalking citation escalates to resisting arrest, an SUV contains more needles than one officer is willing to deal with, and a lovers' spat draws the attention of a patrol.</desc>
+        <icon src="https://images.pluto.tv/series/67a1f730b3210d00130b21af/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="65eed3bb66eec80008b6954a" start="20260609162659 +0000" stop="20260609164922 +0000">
+        <title>Cops: Cops Trouble in Paradise</title>
+        <desc>A man refusing to drop his knife tests an officer's patience, neighbors hold an alleged thief until police arrive, and a couple of volatile newlyweds need police intervention.</desc>
+        <icon src="https://images.pluto.tv/series/67a1f730b3210d00130b21af/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="65eed3bb66eec80008b6954a" start="20260609164922 +0000" stop="20260609171145 +0000">
+        <title>Cops: Cops Carjacked Up</title>
+        <desc>Officers spot a suspect running down the street with a knife, the driver of a stolen car takes off on foot after he's pulled over, and police find carjacked vehicles.</desc>
+        <icon src="https://images.pluto.tv/series/67a1f730b3210d00130b21af/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="65eed3bb66eec80008b6954a" start="20260609171145 +0000" stop="20260609173408 +0000">
+        <title>Cops: Cops No Helmet, No Ride</title>
+        <desc>A man resisting arrest draws a crowd, an armed robbery suspect takes a walk down felony lane with an officer he recognizes, and a strange scene unfolds at a DUI checkpoint.</desc>
+        <icon src="https://images.pluto.tv/series/67a1f730b3210d00130b21af/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="65eed3bb66eec80008b6954a" start="20260609173408 +0000" stop="20260609175630 +0000">
+        <title>Cops: Cops Sidewalk Licker</title>
+        <desc>A prostitution sting in Las Vegas nets more than just johns, police respond to reports of a woman licking the sidewalk, and a patrol happens on a lovers' row in a parking lot.</desc>
+        <icon src="https://images.pluto.tv/series/67a1f730b3210d00130b21af/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="65eed3bb66eec80008b6954a" start="20260609175630 +0000" stop="20260609181853 +0000">
+        <title>Cops: Cops From Sixty to Zero</title>
+        <desc>A motorcyclist fleeing police slams into a pickup truck at high speed, and a man being frisked invents an interesting story to explain the suspicious bulge in his pants.</desc>
+        <icon src="https://images.pluto.tv/series/67a1f730b3210d00130b21af/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="65eed3bb66eec80008b6954a" start="20260609181853 +0000" stop="20260609184116 +0000">
+        <title>Cops: Cops First Time Caller</title>
+        <desc>A fleet-footed deputy nabs a suspect on the run, officers responding to a domestic call are refused entry, and police try to ascertain the cause of a woman's hallucinations.</desc>
+        <icon src="https://images.pluto.tv/series/67a1f730b3210d00130b21af/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="65eed4168b24c800080f3ebd" start="20260609135556 +0000" stop="20260609144813 +0000">
+        <title>Prisoner Cell Block H</title>
+        <desc>Georgie attends class in the library, but goes beserk when the women laugh at her.</desc>
+        <icon src="https://images.pluto.tv/series/6772c1993eea50001360f06e/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="65eed4168b24c800080f3ebd" start="20260609144813 +0000" stop="20260609153847 +0000">
+        <title>Prisoner Cell Block H</title>
+        <desc>Wentworth is put under quarantine after a tropical disease breaks out.</desc>
+        <icon src="https://images.pluto.tv/series/6772c1993eea50001360f06e/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="65eed4168b24c800080f3ebd" start="20260609153847 +0000" stop="20260609162922 +0000">
+        <title>Prisoner Cell Block H</title>
+        <desc>Judy forces herself on Baxter, but it is Baxter who gets into trouble for slapping Judy.</desc>
+        <icon src="https://images.pluto.tv/series/6772c1993eea50001360f06e/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="65eed4168b24c800080f3ebd" start="20260609162922 +0000" stop="20260609171838 +0000">
+        <title>Prisoner Cell Block H</title>
+        <desc>The secret of Evelyn's remedy is discovered. Dave begins to suspect that Georgie is deaf.</desc>
+        <icon src="https://images.pluto.tv/series/6772c1993eea50001360f06e/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="65eed4168b24c800080f3ebd" start="20260609171838 +0000" stop="20260609180836 +0000">
+        <title>Prisoner Cell Block H</title>
+        <desc>Gaffney is released but her boyfriend has run up huge gambling debts.</desc>
+        <icon src="https://images.pluto.tv/series/6772c1993eea50001360f06e/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="65eed4168b24c800080f3ebd" start="20260609180836 +0000" stop="20260609185736 +0000">
+        <title>Prisoner Cell Block H: Episode 16</title>
+        <desc>There is faction fighting among the inmates over Georgie Baxter.</desc>
+        <icon src="https://images.pluto.tv/series/6772c1993eea50001360f06e/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="65eed3bb66eec80008b6954a" start="20260609181853 +0000" stop="20260609184116 +0000">
+        <title>Cops: Cops First Time Caller</title>
+        <desc>A fleet-footed deputy nabs a suspect on the run, officers responding to a domestic call are refused entry, and police try to ascertain the cause of a woman's hallucinations.</desc>
+        <icon src="https://images.pluto.tv/series/67a1f730b3210d00130b21af/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="65eed3bb66eec80008b6954a" start="20260609184116 +0000" stop="20260609190339 +0000">
+        <title>Cops: Cops Kicking and Screaming</title>
+        <desc>An intoxicated man suspected of domestic abuse refuses to obey deputies' orders, police find drugs in a woman's car, and an alleged prostitute encounters the police.</desc>
+        <icon src="https://images.pluto.tv/series/67a1f730b3210d00130b21af/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="65eed3bb66eec80008b6954a" start="20260609190339 +0000" stop="20260609192603 +0000">
+        <title>Cops: Cops Mixed Emotions</title>
+        <desc>A traffic stop escalates to a dangerous situation, a woman admits to hitting her dad in the face with her teeth, and a defiant driver doesn't want deputies to search his car.</desc>
+        <icon src="https://images.pluto.tv/series/67a1f730b3210d00130b21af/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="65eed3bb66eec80008b6954a" start="20260609192603 +0000" stop="20260609194826 +0000">
+        <title>Cops: Cops Better Safe Than Sorry</title>
+        <desc>Officers try to calm an agitated and disoriented man before he hurts himself or someone else, and a driver going 2 MPH on a highway catches the attention of a patrol car.</desc>
+        <icon src="https://images.pluto.tv/series/67a1f730b3210d00130b21af/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="65eed3bb66eec80008b6954a" start="20260609194826 +0000" stop="20260609201050 +0000">
+        <title>Cops: Cops Funny Money</title>
+        <desc>Cops pursue a man skipping bail, an impaired driver is surprisingly cooperative, and officers struggle to remove a violent offender from a crime scene.</desc>
+        <icon src="https://images.pluto.tv/series/67a1f730b3210d00130b21af/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="65eed3bb66eec80008b6954a" start="20260609201050 +0000" stop="20260609203313 +0000">
+        <title>Cops: Cops Pants Down, Hit the Ground</title>
+        <desc>A man learns a hard lesson about wearing his seatbelt, and police perform a traffic stop and uncover a sad man with a strange story.</desc>
+        <icon src="https://images.pluto.tv/series/67a1f730b3210d00130b21af/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="65eed3bb66eec80008b6954a" start="20260609203313 +0000" stop="20260609205536 +0000">
+        <title>Cops: Cops British Invasion</title>
+        <desc>A desperate trespasser attempts to give the cops the slip, and a frightened man tries to get the attention of deputies but takes the wrong approach.</desc>
+        <icon src="https://images.pluto.tv/series/67a1f730b3210d00130b21af/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="65eed3bb66eec80008b6954a" start="20260609205536 +0000" stop="20260609211759 +0000">
+        <title>Cops: Cops One, Two, Tree</title>
+        <desc>A high-speed pursuit ends abruptly when the suspect makes a wrong turn, and a nervous man attempts to hide his crime when he thinks no one can see him.</desc>
+        <icon src="https://images.pluto.tv/series/67a1f730b3210d00130b21af/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="65eed3bb66eec80008b6954a" start="20260609211759 +0000" stop="20260609214022 +0000">
+        <title>Cops: Cops Wake Up Call</title>
+        <desc>A lawbreaker tries to convince the cops that he's a good guy, and deputies smell trouble during a traffic stop.</desc>
+        <icon src="https://images.pluto.tv/series/67a1f730b3210d00130b21af/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="65eed3bb66eec80008b6954a" start="20260609214022 +0000" stop="20260609220247 +0000">
+        <title>Cops: Cops Just Hanging Out</title>
+        <desc>A jumpy bicyclist mistakenly reveals more than he had planned, and  officers search a darkened building in an attempt to thwart a robbery in progress.</desc>
+        <icon src="https://images.pluto.tv/series/67a1f730b3210d00130b21af/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="65eed3bb66eec80008b6954a" start="20260609220247 +0000" stop="20260609222510 +0000">
+        <title>Cops: Cops Bail Me Out, Boss</title>
+        <desc>A distressed woman leads the cops to her abusive fiance, and a couple of officers are suspicious when they pull over an overly friendly man.</desc>
+        <icon src="https://images.pluto.tv/series/67a1f730b3210d00130b21af/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="65eed3bb66eec80008b6954a" start="20260609222510 +0000" stop="20260609224734 +0000">
+        <title>Cops: Cops Thanks for Nothing, Mom</title>
+        <desc>Officers respond to a suspected animal cruelty call, a fight between neighbors turns violent, and deputies question a suspicious group behind a truck stop.</desc>
+        <icon src="https://images.pluto.tv/series/67a1f730b3210d00130b21af/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="65eed4168b24c800080f3ebd" start="20260609180836 +0000" stop="20260609185736 +0000">
+        <title>Prisoner Cell Block H: Episode 16</title>
+        <desc>There is faction fighting among the inmates over Georgie Baxter.</desc>
+        <icon src="https://images.pluto.tv/series/6772c1993eea50001360f06e/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="65eed4168b24c800080f3ebd" start="20260609185736 +0000" stop="20260609194754 +0000">
+        <title>Prisoner Cell Block H</title>
+        <desc>A wild brawl leaves Bea unconscious.</desc>
+        <icon src="https://images.pluto.tv/series/6772c1993eea50001360f06e/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="65eed4168b24c800080f3ebd" start="20260609194754 +0000" stop="20260609203806 +0000">
+        <title>Prisoner Cell Block H</title>
+        <desc>Wayne, Margo and Bazza barricade themselves in a  shop when their robbery goes wrong.</desc>
+        <icon src="https://images.pluto.tv/series/6772c1993eea50001360f06e/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="65eed4168b24c800080f3ebd" start="20260609203806 +0000" stop="20260609212932 +0000">
+        <title>Prisoner Cell Block H</title>
+        <desc>The Gaffney Siege continues but will it end in bloodshed?</desc>
+        <icon src="https://images.pluto.tv/series/6772c1993eea50001360f06e/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="65eed4168b24c800080f3ebd" start="20260609212932 +0000" stop="20260609221611 +0000">
+        <title>Prisoner Cell Block H</title>
+        <desc>Gaffney causes trouble when she finds out that her boyfriend has died in hospital.</desc>
+        <icon src="https://images.pluto.tv/series/6772c1993eea50001360f06e/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="65eed4168b24c800080f3ebd" start="20260609221611 +0000" stop="20260609230545 +0000">
+        <title>Prisoner Cell Block H</title>
+        <desc>Lizzy Birdsworth requests a day out - but what exactly is she up to?</desc>
+        <icon src="https://images.pluto.tv/series/6772c1993eea50001360f06e/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="65eed3bb66eec80008b6954a" start="20260609222510 +0000" stop="20260609224734 +0000">
+        <title>Cops: Cops Thanks for Nothing, Mom</title>
+        <desc>Officers respond to a suspected animal cruelty call, a fight between neighbors turns violent, and deputies question a suspicious group behind a truck stop.</desc>
+        <icon src="https://images.pluto.tv/series/67a1f730b3210d00130b21af/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="65eed3bb66eec80008b6954a" start="20260609224734 +0000" stop="20260609230958 +0000">
+        <title>Cops: Cops Clueless</title>
+        <desc>A young woman with warrants tries to avoid jail time, deputies confront a hit-and-run suspect, and a routine traffic stop ends with an arrest.</desc>
+        <icon src="https://images.pluto.tv/series/67a1f730b3210d00130b21af/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="65eed3bb66eec80008b6954a" start="20260609230958 +0000" stop="20260609233222 +0000">
+        <title>Cops: Cops Organized Crime</title>
+        <desc>Emotions run high when a dispute between siblings gets out of hand, a man struggles to keep his story straight with the police, and deputies investigate a domestic incident.</desc>
+        <icon src="https://images.pluto.tv/series/67a1f730b3210d00130b21af/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="65eed3bb66eec80008b6954a" start="20260609233222 +0000" stop="20260609235445 +0000">
+        <title>Cops: Cops Out of Sight, Out of Mind</title>
+        <desc>The K-9 unit tracks down a man fleeing on foot, a father is left with no choice but to call the cops on his son, and a former gang member is found with a stolen firearm.</desc>
+        <icon src="https://images.pluto.tv/series/67a1f730b3210d00130b21af/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="65eed3bb66eec80008b6954a" start="20260609235445 +0000" stop="20260610001708 +0000">
+        <title>Cops: Cops Two Doors Down</title>
+        <desc>A deputy calls for backup when he's outnumbered, a former Marine damages his neighbors' property, and a husband and wife are separated after their vehicle is searched.</desc>
+        <icon src="https://images.pluto.tv/series/67a1f730b3210d00130b21af/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="65eed3bb66eec80008b6954a" start="20260610001708 +0000" stop="20260610003929 +0000">
+        <title>Cops: Cops One Headlight</title>
+        <desc>A man pulls out all the stops to elude the police, a civilian steps in when she spots a violent crime in progress, and a suspected shoplifter is confronted by officers.</desc>
+        <icon src="https://images.pluto.tv/series/67a1f730b3210d00130b21af/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="65eed3bb66eec80008b6954a" start="20260610003929 +0000" stop="20260610010151 +0000">
+        <title>Cops: Cops Between a Bush and a Hard Place</title>
+        <desc>A high-speed pursuit switches gears when the driver flees on foot, an altercation causes tension between neighbors, and a driver is irate when officers search his passenger.</desc>
+        <icon src="https://images.pluto.tv/series/67a1f730b3210d00130b21af/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="65eed3bb66eec80008b6954a" start="20260610010151 +0000" stop="20260610012414 +0000">
+        <title>Cops: Cops Manic Monday</title>
+        <desc>A wanted man attempts to hide at his grandmother's house, police arrest a suspect driving a stolen vehicle, and officers call animal control for an injured dog.</desc>
+        <icon src="https://images.pluto.tv/series/67a1f730b3210d00130b21af/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="65eed3bb66eec80008b6954a" start="20260610012414 +0000" stop="20260610014638 +0000">
+        <title>Cops: Cops Gun in the Front, Rifle in the Back</title>
+        <desc>Deputies pull a man from a devastating car wreck after a high-speed chase, officers apprehend and question a robbery suspect, and a wanted man tries to flee from police.</desc>
+        <icon src="https://images.pluto.tv/series/67a1f730b3210d00130b21af/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="65eed3bb66eec80008b6954a" start="20260610014638 +0000" stop="20260610020859 +0000">
+        <title>Cops: Cops Heat of the Moment</title>
+        <desc>A parolee leads deputies on a high-speed chase, police respond to a domestic disturbance call, and an officer helps frustrated citizens settle their differences.</desc>
+        <icon src="https://images.pluto.tv/series/67a1f730b3210d00130b21af/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="65eed3bb66eec80008b6954a" start="20260610020859 +0000" stop="20260610023122 +0000">
+        <title>Cops: Cops Cookies and Contraband</title>
+        <desc>A detective is injured after chasing a man driving a stolen car, a bar fight ends with a couple in handcuffs, and an officer finds a variety of items during a vehicle search.</desc>
+        <icon src="https://images.pluto.tv/series/67a1f730b3210d00130b21af/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="65eed4168b24c800080f3ebd" start="20260609221611 +0000" stop="20260609230545 +0000">
+        <title>Prisoner Cell Block H</title>
+        <desc>Lizzy Birdsworth requests a day out - but what exactly is she up to?</desc>
+        <icon src="https://images.pluto.tv/series/6772c1993eea50001360f06e/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="65eed4168b24c800080f3ebd" start="20260609230545 +0000" stop="20260609235612 +0000">
+        <title>Prisoner Cell Block H</title>
+        <desc>Lizzie enjoys her time on the run. Meg's husband Bob is increasingly sick of her job.</desc>
+        <icon src="https://images.pluto.tv/series/6772c1993eea50001360f06e/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="65eed4168b24c800080f3ebd" start="20260609235612 +0000" stop="20260610004638 +0000">
+        <title>Prisoner Cell Block H</title>
+        <desc>The conjugal visiting suite is set up, and Hazel is the first to enjoy a special visit.</desc>
+        <icon src="https://images.pluto.tv/series/6772c1993eea50001360f06e/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="65eed4168b24c800080f3ebd" start="20260610004638 +0000" stop="20260610013758 +0000">
+        <title>Prisoner Cell Block H</title>
+        <desc>Bea's boycott of the visiting suite doesn't go down too well with the other women.</desc>
+        <icon src="https://images.pluto.tv/series/6772c1993eea50001360f06e/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="65eed4168b24c800080f3ebd" start="20260610013758 +0000" stop="20260610022918 +0000">
+        <title>Prisoner Cell Block H</title>
+        <desc>Bea allows herself to be dragged through the mud for the benefit of the other women.</desc>
+        <icon src="https://images.pluto.tv/series/6772c1993eea50001360f06e/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="65eed4168b24c800080f3ebd" start="20260610022918 +0000" stop="20260610032107 +0000">
+        <title>Prisoner Cell Block H</title>
+        <desc>Bea is forced to say goodbye to Ken, and Chrissie Latham is released.</desc>
+        <icon src="https://images.pluto.tv/series/6772c1993eea50001360f06e/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="65eed3bb66eec80008b6954a" start="20260610020859 +0000" stop="20260610023122 +0000">
+        <title>Cops: Cops Cookies and Contraband</title>
+        <desc>A detective is injured after chasing a man driving a stolen car, a bar fight ends with a couple in handcuffs, and an officer finds a variety of items during a vehicle search.</desc>
+        <icon src="https://images.pluto.tv/series/67a1f730b3210d00130b21af/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="65eed3bb66eec80008b6954a" start="20260610023122 +0000" stop="20260610025346 +0000">
+        <title>Cops: Cops Odd Man Out</title>
+        <desc>An alleged lawbreaker can't seem to grasp the gravity of her situation, and officers question a colorful trio of suspects.</desc>
+        <icon src="https://images.pluto.tv/series/67a1f730b3210d00130b21af/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="65eed3bb66eec80008b6954a" start="20260610025346 +0000" stop="20260610031609 +0000">
+        <title>Cops: Cops Bikini Brawl</title>
+        <desc>Officers are called when a mother's job hunt takes a turn for the worse, and deputies confront a nervous man with a lot of bad habits.</desc>
+        <icon src="https://images.pluto.tv/series/67a1f730b3210d00130b21af/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="65eed3bb66eec80008b6954a" start="20260610031609 +0000" stop="20260610033832 +0000">
+        <title>Cops: Cops A Man Without a Plan</title>
+        <desc>A young man receives a wake-up call when police catch him breaking the law, and officers play peacemakers after a board game sparks a family feud.</desc>
+        <icon src="https://images.pluto.tv/series/67a1f730b3210d00130b21af/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="65eed3bb66eec80008b6954a" start="20260610033832 +0000" stop="20260610040055 +0000">
+        <title>Cops: Cops The Truth Is Key</title>
+        <desc>A desperate suspect flees from the cops after shots are fired, and a father and daughter are caught off-guard when they run into a man wielding a screwdriver.</desc>
+        <icon src="https://images.pluto.tv/series/67a1f730b3210d00130b21af/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="65eed3bb66eec80008b6954a" start="20260610040055 +0000" stop="20260610042318 +0000">
+        <title>Cops: Cops Mother Knows Best</title>
+        <desc>A defiant motorist is shocked when his mother sides with the law, and deputies discover a man wearing a bizarre costume during a routine traffic stop.</desc>
+        <icon src="https://images.pluto.tv/series/67a1f730b3210d00130b21af/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="65eed3bb66eec80008b6954a" start="20260610042318 +0000" stop="20260610044541 +0000">
+        <title>Cops: Cops The Naked Truth</title>
+        <desc>An evasive driver blames his girlfriend for his behavior, a pregnant woman makes some questionable choices, and a robbery suspect finds comfort in coming clean.</desc>
+        <icon src="https://images.pluto.tv/series/67a1f730b3210d00130b21af/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="65eed3bb66eec80008b6954a" start="20260610044541 +0000" stop="20260610050804 +0000">
+        <title>Cops: Cops Rock Star</title>
+        <desc>Officers intervene when a dispute between neighbors gets heated, suspects of a shooting lead police on a high-speed pursuit, and a domestic argument gets out of hand.</desc>
+        <icon src="https://images.pluto.tv/series/67a1f730b3210d00130b21af/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="65eed3bb66eec80008b6954a" start="20260610050804 +0000" stop="20260610053026 +0000">
+        <title>Cops: Cops Window of Opportunity</title>
+        <desc>Officers apprehend an armed suspect, the cops are called when a man damages his neighbor's window, and deputies investigate a parking garage known for illegal activity.</desc>
+        <icon src="https://images.pluto.tv/series/67a1f730b3210d00130b21af/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="65eed3bb66eec80008b6954a" start="20260610053026 +0000" stop="20260610055249 +0000">
+        <title>Cops: Cops Mommy's Tears</title>
+        <desc>A suspect collides with another driver while fleeing from police, deputies mediate an altercation over a bag of chips, and officers respond to a domestic dispute.</desc>
+        <icon src="https://images.pluto.tv/series/67a1f730b3210d00130b21af/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="65eed3bb66eec80008b6954a" start="20260610055249 +0000" stop="20260610061512 +0000">
+        <title>Cops: Cops Running Scared</title>
+        <desc>Suspected jewelry thieves attempt a daring escape during a pursuit, a man gives officers a challenge during his arrest, and a traffic stop puts a marriage in jeopardy.</desc>
+        <icon src="https://images.pluto.tv/series/67a1f730b3210d00130b21af/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="65eed3bb66eec80008b6954a" start="20260610061512 +0000" stop="20260610064046 +0000">
+        <title>Cops: Ignorance is an Excuse</title>
+        <desc>Two men engage in a fist fight on the street over an alleged robbery. A couple claim that they didn't know the car they are driving was stolen.</desc>
+        <icon src="https://images.pluto.tv/series/67a1f730b3210d00130b21af/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="65eed4168b24c800080f3ebd" start="20260610022918 +0000" stop="20260610032107 +0000">
+        <title>Prisoner Cell Block H</title>
+        <desc>Bea is forced to say goodbye to Ken, and Chrissie Latham is released.</desc>
+        <icon src="https://images.pluto.tv/series/6772c1993eea50001360f06e/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="65eed4168b24c800080f3ebd" start="20260610032107 +0000" stop="20260610041354 +0000">
+        <title>Prisoner Cell Block H</title>
+        <desc>Latham's dangerous attitude could cost her parole and custody of Elizabeth.</desc>
+        <icon src="https://images.pluto.tv/series/6772c1993eea50001360f06e/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="65eed4168b24c800080f3ebd" start="20260610041354 +0000" stop="20260610050218 +0000">
+        <title>Prisoner Cell Block H</title>
+        <desc>The women are down on Doreen for having censorship brought back.</desc>
+        <icon src="https://images.pluto.tv/series/6772c1993eea50001360f06e/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="65eed4168b24c800080f3ebd" start="20260610050218 +0000" stop="20260610055302 +0000">
+        <title>Prisoner Cell Block H</title>
+        <desc>David is forced to resign for inciting the strike, and Latham's boyfriend is arrested.</desc>
+        <icon src="https://images.pluto.tv/series/6772c1993eea50001360f06e/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="65eed4168b24c800080f3ebd" start="20260610055302 +0000" stop="20260610064214 +0000">
+        <title>Prisoner Cell Block H</title>
+        <desc>Latham is forced to say goodbye to Mick as he is extradited to South Australia.</desc>
+        <icon src="https://images.pluto.tv/series/6772c1993eea50001360f06e/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="65eed3bb66eec80008b6954a" start="20260610061512 +0000" stop="20260610064046 +0000">
+        <title>Cops: Ignorance is an Excuse</title>
+        <desc>Two men engage in a fist fight on the street over an alleged robbery. A couple claim that they didn't know the car they are driving was stolen.</desc>
+        <icon src="https://images.pluto.tv/series/67a1f730b3210d00130b21af/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="65eed3bb66eec80008b6954a" start="20260610064046 +0000" stop="20260610070620 +0000">
+        <title>Cops: Checked Luggage</title>
+        <desc>Agents of the US Customs and Border Protection pursue a vehicle. Border agents spot two undocumented people. Airport Customs detains a man when agents suspect he might be carrying more than luggage.</desc>
+        <icon src="https://images.pluto.tv/series/67a1f730b3210d00130b21af/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="65eed3bb66eec80008b6954a" start="20260610070620 +0000" stop="20260610073154 +0000">
+        <title>Cops: Uncomfortable Shoes</title>
+        <desc>A driver takes police on a neighborhood chase. Officers are called to capture a 12-foot python hiding outside a home. Officers suspect a motorist with a funny walk is hiding something up his shoe.</desc>
+        <icon src="https://images.pluto.tv/series/67a1f730b3210d00130b21af/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="65eed3bb66eec80008b6954a" start="20260610073154 +0000" stop="20260610075728 +0000">
+        <title>Cops: In-Law Problems</title>
+        <desc>US Marshals are tasked with finding a young boy that has been kidnapped for ransom. A man suspected of dealing contraband is turned in by his ex-girlfriends mother.</desc>
+        <icon src="https://images.pluto.tv/series/67a1f730b3210d00130b21af/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="65eed3bb66eec80008b6954a" start="20260610075728 +0000" stop="20260610082302 +0000">
+        <title>Cops: Set Some Boundaries</title>
+        <desc>A couple gets into a fight with their in-laws when they attempt to take their baby on a 3am drive. A man is attacked by his roommate after he gets 'too friendly' with a woman in the home.</desc>
+        <icon src="https://images.pluto.tv/series/67a1f730b3210d00130b21af/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="65eed3bb66eec80008b6954a" start="20260610082302 +0000" stop="20260610084836 +0000">
+        <title>Cops: Invisible Intruders</title>
+        <desc>A homeowner shoots at intruders only he can see. The driver of a stolen truck claims he's just trying to return the vehicle.. A argument about parenting styles turns ugly when a gun is pulled.</desc>
+        <icon src="https://images.pluto.tv/series/67a1f730b3210d00130b21af/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="65eed3bb66eec80008b6954a" start="20260610084836 +0000" stop="20260610091410 +0000">
+        <title>Cops: Dance Fighting</title>
+        <desc>A dispute inside a nightclub turns into a street fight. A man patrols his neighborhood 'Old West' style. A K-9 unit is called in to track a burglar on the run.</desc>
+        <icon src="https://images.pluto.tv/series/67a1f730b3210d00130b21af/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="65eed3bb66eec80008b6954a" start="20260610091410 +0000" stop="20260610093944 +0000">
+        <title>Cops: Do Not Disturb</title>
+        <desc>A prostitute tries to outrun the police during a foot chase. A man claims he can only meet women at motels since he lives with his mom.</desc>
+        <icon src="https://images.pluto.tv/series/67a1f730b3210d00130b21af/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="65eed3bb66eec80008b6954a" start="20260610093944 +0000" stop="20260610100518 +0000">
+        <title>Cops: Tree Hugging</title>
+        <desc>An ex-felon threatens to kill his spouse after she announces she want to divorce him. A driver has suspicious plants in her car. A woman crashes her friends truck into a pedestrian and a tree.</desc>
+        <icon src="https://images.pluto.tv/series/67a1f730b3210d00130b21af/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="65eed3bb66eec80008b6954a" start="20260610100518 +0000" stop="20260610103052 +0000">
+        <title>Cops: Crawling to Vegas</title>
+        <desc>A driver leads police on a slow speed chase towards Las Vegas. Three people are suspected of using contraband. A multi-neighbor dispute devolves into a fight involving guns and bats.</desc>
+        <icon src="https://images.pluto.tv/series/67a1f730b3210d00130b21af/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="65eed4168b24c800080f3ebd" start="20260610055302 +0000" stop="20260610064214 +0000">
+        <title>Prisoner Cell Block H</title>
+        <desc>Latham is forced to say goodbye to Mick as he is extradited to South Australia.</desc>
+        <icon src="https://images.pluto.tv/series/6772c1993eea50001360f06e/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="65eed4168b24c800080f3ebd" start="20260610064214 +0000" stop="20260610073149 +0000">
+        <title>Prisoner Cell Block H</title>
+        <desc>Erica Davidson is sacked, and Bea is shanghaied in the middle of the night.</desc>
+        <icon src="https://images.pluto.tv/series/6772c1993eea50001360f06e/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="65eed4168b24c800080f3ebd" start="20260610073149 +0000" stop="20260610082327 +0000">
+        <title>Prisoner Cell Block H</title>
+        <desc>The women agree to lift the barricade and end the hunger strike.</desc>
+        <icon src="https://images.pluto.tv/series/6772c1993eea50001360f06e/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="65eed4168b24c800080f3ebd" start="20260610082327 +0000" stop="20260610091513 +0000">
+        <title>Prisoner Cell Block H</title>
+        <desc>Marie Winter and her gang drug Bea. Erica decides to have Bea brought back to Wentworth.</desc>
+        <icon src="https://images.pluto.tv/series/6772c1993eea50001360f06e/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="65eed4168b24c800080f3ebd" start="20260610091513 +0000" stop="20260610100512 +0000">
+        <title>Prisoner Cell Block H</title>
+        <desc>Margo's terror campaign continues, and Gaffney takes over as Top Dog.</desc>
+        <icon src="https://images.pluto.tv/series/6772c1993eea50001360f06e/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="65eed4168b24c800080f3ebd" start="20260610100512 +0000" stop="20260610105631 +0000">
+        <title>Prisoner Cell Block H</title>
+        <desc>Terry finds Bea distraught - but Lizzie and Doreen are convinced she's faking it.</desc>
+        <icon src="https://images.pluto.tv/series/6772c1993eea50001360f06e/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="65eed3bb66eec80008b6954a" start="20260610100518 +0000" stop="20260610103052 +0000">
+        <title>Cops: Crawling to Vegas</title>
+        <desc>A driver leads police on a slow speed chase towards Las Vegas. Three people are suspected of using contraband. A multi-neighbor dispute devolves into a fight involving guns and bats.</desc>
+        <icon src="https://images.pluto.tv/series/67a1f730b3210d00130b21af/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="65eed3bb66eec80008b6954a" start="20260610103052 +0000" stop="20260610105626 +0000">
+        <title>Cops: First Do No Harm</title>
+        <desc>A suicidal man tries to taunt police into shooting him. Undercover officers bust up an illegal operation at a pain management clinic. A woman claims she's just a bystander to a motorcycle hit and run.</desc>
+        <icon src="https://images.pluto.tv/series/67a1f730b3210d00130b21af/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="65eed3bb66eec80008b6954a" start="20260610105626 +0000" stop="20260610112200 +0000">
+        <title>Cops: Safe Cracking</title>
+        <desc>A man stages a sit-in in his car in an attempt to stop it from being towed. A homeowner denies that he's selling drugs despite the large amount of evidence found in his home.</desc>
+        <icon src="https://images.pluto.tv/series/67a1f730b3210d00130b21af/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="65eed3bb66eec80008b6954a" start="20260610112200 +0000" stop="20260610114734 +0000">
+        <title>Cops: High Jump Fail</title>
+        <desc>A family with kids is taken on a high speed car chase. An intoxicated suspect tries to jump a fence while protesting that he's not trying to run away.</desc>
+        <icon src="https://images.pluto.tv/series/67a1f730b3210d00130b21af/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="65eed3bb66eec80008b6954a" start="20260610114734 +0000" stop="20260610121308 +0000">
+        <title>Cops: Bumming a Smoke</title>
+        <desc>A runaway motorcycle tries to elude officers by driving on a rough road. An argument over a cigarette turns ugly. Kids throw rocks from an overpass at the wrong car.</desc>
+        <icon src="https://images.pluto.tv/series/67a1f730b3210d00130b21af/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="65eed3bb66eec80008b6954a" start="20260610121308 +0000" stop="20260610123842 +0000">
+        <title>Cops: Neighborhood Rage</title>
+        <desc>A suspect ditches his bike when stopped and tries to outrun the police. Neighbors fight out a road rage incident with rocks and a baseball bat.</desc>
+        <icon src="https://images.pluto.tv/series/67a1f730b3210d00130b21af/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="65eed3bb66eec80008b6954a" start="20260610123842 +0000" stop="20260610130416 +0000">
+        <title>Cops: My Bills Won't Wait</title>
+        <desc>A suspect calls the police and states that he wants to kill himself and any officer who tries to help him. None of the three occupants of a stopped car will admit to ownership of a bag of drugs.</desc>
+        <icon src="https://images.pluto.tv/series/67a1f730b3210d00130b21af/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="65eed3bb66eec80008b6954a" start="20260610130416 +0000" stop="20260610132950 +0000">
+        <title>Cops: Family Therapy</title>
+        <desc>Officers are flagged down and alerted to a group of armed men assaulting people at a nearby home. A fight between a father and his adult son takes a dark turn.</desc>
+        <icon src="https://images.pluto.tv/series/67a1f730b3210d00130b21af/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="65eed3bb66eec80008b6954a" start="20260610132950 +0000" stop="20260610135524 +0000">
+        <title>Cops: Spiked but Still Moving</title>
+        <desc>A suspect refuses to stop his vehicle even after the officers spike his tires. A dispute over money results in a pregnant woman being attacked.</desc>
+        <icon src="https://images.pluto.tv/series/67a1f730b3210d00130b21af/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="65eed3bb66eec80008b6954a" start="20260610135524 +0000" stop="20260610142058 +0000">
+        <title>Cops: Nightvision</title>
+        <desc>A man on a late-night bike ride is stopped by officers for not having a headlamp. A suspect in a domestic dispute admits to hitting a woman.</desc>
+        <icon src="https://images.pluto.tv/series/67a1f730b3210d00130b21af/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="65eed3bb66eec80008b6954a" start="20260610142058 +0000" stop="20260610144632 +0000">
+        <title>Cops: Now It's Lawn Furniture</title>
+        <desc>A traffic stop over a broken brake light turns into a foot chase. A man handles bad news by throwing his furniture out of the window. A vehicle pursuit ends with a K-9 unit's help.</desc>
+        <icon src="https://images.pluto.tv/series/67a1f730b3210d00130b21af/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="65eed4168b24c800080f3ebd" start="20260610100512 +0000" stop="20260610105631 +0000">
+        <title>Prisoner Cell Block H</title>
+        <desc>Terry finds Bea distraught - but Lizzie and Doreen are convinced she's faking it.</desc>
+        <icon src="https://images.pluto.tv/series/6772c1993eea50001360f06e/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="65eed4168b24c800080f3ebd" start="20260610105631 +0000" stop="20260610114648 +0000">
+        <title>Prisoner Cell Block H</title>
+        <desc>Still unaware of the bet, Vera goes on another date with Terry.</desc>
+        <icon src="https://images.pluto.tv/series/6772c1993eea50001360f06e/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="65eed4168b24c800080f3ebd" start="20260610114648 +0000" stop="20260610123732 +0000">
+        <title>Prisoner Cell Block H</title>
+        <desc>In an attempt to get released, Bea pretends to still have amnesia.</desc>
+        <icon src="https://images.pluto.tv/series/6772c1993eea50001360f06e/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="65eed4168b24c800080f3ebd" start="20260610123732 +0000" stop="20260610132632 +0000">
+        <title>Prisoner Cell Block H</title>
+        <desc>Bea makes a massive sacrifice for Mum, and  Vera makes a decision about her future.</desc>
+        <icon src="https://images.pluto.tv/series/6772c1993eea50001360f06e/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="65eed4168b24c800080f3ebd" start="20260610132632 +0000" stop="20260610141608 +0000">
+        <title>Prisoner Cell Block H</title>
+        <desc>The power of her position begins to get to Lizzie's head.</desc>
+        <icon src="https://images.pluto.tv/series/6772c1993eea50001360f06e/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="65eed4168b24c800080f3ebd" start="20260610141608 +0000" stop="20260610150646 +0000">
+        <title>Prisoner Cell Block H</title>
+        <desc>Terry bribes Margo for information, and Nick confuses his feelings for Meg.</desc>
+        <icon src="https://images.pluto.tv/series/6772c1993eea50001360f06e/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="65eed3bb66eec80008b6954a" start="20260610142058 +0000" stop="20260610144632 +0000">
+        <title>Cops: Now It's Lawn Furniture</title>
+        <desc>A traffic stop over a broken brake light turns into a foot chase. A man handles bad news by throwing his furniture out of the window. A vehicle pursuit ends with a K-9 unit's help.</desc>
+        <icon src="https://images.pluto.tv/series/67a1f730b3210d00130b21af/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="65eed3bb66eec80008b6954a" start="20260610144632 +0000" stop="20260610151206 +0000">
+        <title>Cops: Don't Make her Angry</title>
+        <desc>A man needs police assistance when his angry ex-girlfriend crawls through his window. Police must play hide-and-seek when they attempt to execute an arrest warrant.</desc>
+        <icon src="https://images.pluto.tv/series/67a1f730b3210d00130b21af/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="65eed3bb66eec80008b6954a" start="20260610151206 +0000" stop="20260610183000 +0000">
+        <title>Cops</title>
+        <desc>no info available</desc>
+        <icon src="https://images.pluto.tv/channels/65eed3bb66eec80008b6954a/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
+    </programme>
+    <programme channel="65eed4168b24c800080f3ebd" start="20260610141608 +0000" stop="20260610150646 +0000">
+        <title>Prisoner Cell Block H</title>
+        <desc>Terry bribes Margo for information, and Nick confuses his feelings for Meg.</desc>
+        <icon src="https://images.pluto.tv/series/6772c1993eea50001360f06e/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="65eed4168b24c800080f3ebd" start="20260610150646 +0000" stop="20260610183000 +0000">
+        <title>Prisoner: Cell Block H</title>
+        <desc>no info available</desc>
+        <icon src="https://images.pluto.tv/channels/65eed4168b24c800080f3ebd/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
+    </programme>
+</tv>
